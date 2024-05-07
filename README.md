@@ -2,6 +2,7 @@
 
 ## Здесь будет информация обо мне
 
-Languages and Tools
+## Languages and Tools
 
-Folow Me
+
+## Folow Me
