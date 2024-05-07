@@ -1,4 +1,4 @@
-![Header](https://github.com/FixStress/fixStress/blob/main/assets/imgonline-com-ua-Compressed-pJPCn2zmxBcqO-1.jpg)
+![Header](https://github.com/FixStress/fixStress/blob/main/assets/qa-testing-header.png)
 
 ## Здесь будет информация обо мне
 
