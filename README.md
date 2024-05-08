@@ -12,6 +12,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash" width="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntellijIDEA" width="50" />
-<img src="https://github.com/FixStress/fixStress/blob/main/assets/19369327.png" title="REST Assured" width="70">
+<img src="https://github.com/FixStress/fixStress/blob/main/assets/19369327.png" title="REST Assured" width="50">
 
 
