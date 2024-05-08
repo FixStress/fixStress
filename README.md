@@ -3,14 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="https://github.com/FixStress/fixStress/blob/main/assets/style.css">
 </head>
 <body>
 
 <!-- Шапка -->
 <h1>Всем здрасть</h1>
-<img class="header-img" src="assets/qa-testing-header.png" alt="Header">
+<img class="header-img" src="https://github.com/FixStress/fixStress/blob/main/assets/qa-testing-header.png" alt="Header">
 
 <!-- Информация обо мне -->
 <h2>Здесь будет информация обо мне</h2>
