@@ -1,7 +1,7 @@
 
 # Привет! Меня зовут Данил и я тестировщик. 
 
-![Header](https://github.com/FixStress/fixStress/blob/main/assets/qa-testing-header.png)
+![Header](https://github.com/FixStress/fixStress/blob/main/assets/qa-testing-header1.png)
 
 ## На этой странице вы можете ознакомиться с моими работами, выполненными во время обучения и практики.
 
