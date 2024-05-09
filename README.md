@@ -10,7 +10,7 @@
 
 <!-- Языки и инструменты -->
 ## Языки и инструменты
-<img src="https://github.com/FixStress/fixStress/blob/main/assets/java-logo.png" title="Java"/>
+<img src="https://github.com/FixStress/fixStress/blob/main/assets/java-logo.png" title="Java" width="50"/>
 <img src=/>
 <img src=/>
 <img src=/>
