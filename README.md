@@ -15,7 +15,7 @@
 <img src="https://github.com/FixStress/fixStress/blob/main/assets/junit-logo.png" title="JUnit" width="60"/>
 <img src="https://github.com/FixStress/fixStress/blob/main/assets/selenium-logo.png" title="Selenium" width="60"/>
 <img src="https://github.com/FixStress/fixStress/blob/main/assets/rest-assured-logo.png" title="REST Assured" width="60"/>
-<img src="https://github.com/FixStress/fixStress/blob/main/assets/mockito-logo.png" title="Mockito" width="60"/>
+<img src="" title="Mockito" width="60"/>
 <img src="https://github.com/FixStress/fixStress/blob/main/assets/allure-logo.png" title="Allure" width="60"/>
 <img src="https://github.com/FixStress/fixStress/blob/main/assets/jacoco-logo.png" title="Jacoco" width="60"/>
 <img src="https://github.com/FixStress/fixStress/blob/main/assets/intellijidea-logo.png" title="IntellijIDEA" width="60"/>
