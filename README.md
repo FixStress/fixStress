@@ -13,4 +13,10 @@
 
 <img src="https://github.com/FixStress/fixStress/blob/main/assets/bash-logo.png" title="Bash" width="50"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/sql-logo.png" title="SQL" width="50"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/postgresql-logo.png" title="PostgreSQL" width="50"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/docker-logo.png" title="Docker" width="50"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/charles-logo.png" title="Charles" width="45"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/android-studio-logo.png" title="Android Studio" width="50"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/youtrack-logo.png" title="YouTrack" width="45"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/qase-logo.png" title="Qase" width="50"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/figma-logo.png" title="Figma" width="50"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/miro-logo.png" title="Miro" width="50"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/xmind-logo.png" title="Xmind" width="50"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/drawio-logo.png" title="draw.io" width="50"/>
 
-### Связаться со мной
+## Связаться со мной
+
+## Проекты
+:robot:
+### Java. Автоматизация тестирования.
+
+### Ручное тестирование
