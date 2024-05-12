@@ -15,7 +15,7 @@
 
 ## Связаться со мной
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style-for-the-badge&logo=telegram)](https://t.me/fix_stress)
-[![Gmail](https://img.shields.io/badge/-danil.fixstress.astakhov@gmail.com-090909?style-for-the-badge&logo=gmail)]()
+[![Gmail](https://img.shields.io/badge/-danil.fixstress.astakhov@gmail.com-090909?style-for-the-badge&logo=gmail)](danil.fixstress.astakhov@gmail.com)
 
 ## Проекты
 
