@@ -4,7 +4,7 @@
 ![Header](https://github.com/FixStress/fixStress/blob/main/assets/header2.png)
 
 ## Обо мне
-### Full stack qa. Окончил курс "Инженер по тестированию: от новичка до автоматизатора" в международном сервисе онлайн образования Яндекс Практикум. На этой странице вы можете ознакомиться с моими работами, выполненными во время обучения и практики.
+### Full stack Qa. Окончил курс "Инженер по тестированию: от новичка до автоматизатора" в международном сервисе онлайн образования Яндекс Практикум. На этой странице вы можете ознакомиться с моими работами, выполненными во время обучения и практики.
 ### 
 
 ## Языки и инструменты
@@ -14,9 +14,18 @@
 <img src="https://github.com/FixStress/fixStress/blob/main/assets/bash-logo.png" title="Bash" width="50"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/sql-logo.png" title="SQL" width="50"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/postgresql-logo.png" title="PostgreSQL" width="50"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/docker-logo.png" title="Docker" width="50"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/charles-logo.png" title="Charles" width="45"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/android-studio-logo.png" title="Android Studio" width="50"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/youtrack-logo.png" title="YouTrack" width="45"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/qase-logo.png" title="Qase" width="50"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/figma-logo.png" title="Figma" width="50"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/miro-logo.png" title="Miro" width="50"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/xmind-logo.png" title="Xmind" width="50"/> <img src="https://github.com/FixStress/fixStress/blob/main/assets/drawio-logo.png" title="draw.io" width="50"/>
 
 ## Связаться со мной
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style-for-the-badge&logo=telegram)](https://t.me/fix_stress)
+[![Gmail](https://img.shields.io/badge/-danil.fixstress.astakhov@gmail.com-090909?style-for-the-badge&logo=gmail)]()
 
 ## Проекты
 
-### Java. Автоматизация тестирования :robot:
+### Java. Автоматизация :robot: 
+1. Автоматизация тестирования сервиса [Stellar Burgers:](https://stellarburgers.nomoreparties.site/)
+* [Api-тесты](https://github.com/FixStress/Api-tests_for_Stellar_Burgers)
+* [Ui-тесты](https://github.com/FixStress/Ui-tests_for_Stellar_Burgers)
+* [Unit-тесты](https://github.com/FixStress/Unit-tests_for_Stellar_Burgers)
+2. Автоматизация тестирования сервиса [Яндекс Самокат:](https://qa-scooter.praktikum-services.ru/)
+* [Api-тесты](https://github.com/FixStress/Api-tests_for_Yandex_Scooter)
+* [Ui-тесты](https://github.com/FixStress/Ui-tests_for_Yandex_Scooter)
 
 ### Ручное тестирование :technologist:
