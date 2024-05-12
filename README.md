@@ -42,4 +42,4 @@
 * [Баг-репорты](https://docs.google.com/spreadsheets/d/126UNiuPSp1MZu6_ArCoNmYGQpBSfXHtLUGgPp5Vmsac/edit?usp=sharing)
 4. Визуализация требований для сервиса ЯНдекс Маршруты
 * [Mind-map](https://miro.com/app/board/uXjVMw2b2ys=/?share_link_id=868546698351)
-*[Блок-схема]()
+* [Блок-схема](https://github.com/FixStress/fixStress/blob/main/assets/%D0%91%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0.drawio.png)
