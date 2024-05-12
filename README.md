@@ -15,7 +15,7 @@
 
 ## Связаться со мной
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style-for-the-badge&logo=telegram)](https://t.me/fix_stress)
-[![Gmail](https://img.shields.io/badge/-danil.fixstress.astakhov@gmail.com-090909?style-for-the-badge&logo=gmail)](danil.fixstress.astakhov@gmail.com)
+![Gmail](https://img.shields.io/badge/-danil.fixstress.astakhov@gmail.com-090909?style-for-the-badge&logo=gmail)
 
 ## Проекты
 
@@ -29,3 +29,17 @@
 * [Ui-тесты](https://github.com/FixStress/Ui-tests_for_Yandex_Scooter)
 
 ### Ручное тестирование :technologist:
+1. Тестирование сервиса Яндекс Самокат :
+* [Чек-листы и тест-кейсы](https://docs.google.com/spreadsheets/d/1HEuZn89eNHAc0WXc1KUKBGhi7m2VBXPONDirHrvPSyY/edit?usp=sharing)
+* [Визуализация требований](https://miro.com/app/board/uXjVNS5kS3w=/)
+* [Баг-репорты](https://fixstress.youtrack.cloud/issues/fxs?q=%D1%82%D0%B5%D0%B3:%20%7B%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%7D)
+2. Тестирование мобильного приложения Яндекс Метро и Api-тесты для Яндекс Прилавка
+* [Чек-листы](https://docs.google.com/spreadsheets/d/1nzPKTDMzirTtGKSnLz2xrHwdjyZOn_BbtYYWw4jU6mo/edit?usp=sharing)
+* [Баг-репорты для Яндекс Метро](https://fixstress.youtrack.cloud/issues/fxs?q=%D1%82%D0%B5%D0%B3:%20%7BSprint%203%20Mobile%7D)
+* [Баг-репорты для Яндекс Прилавка](https://fixstress.youtrack.cloud/issues/fxs?q=%D1%82%D0%B5%D0%B3:%20%7BSprint%203%20API%7D)
+3. Тестирование сервиса Яндекс Маршруты
+* [Чек-листы и тест-кейсы](https://docs.google.com/spreadsheets/d/126UNiuPSp1MZu6_ArCoNmYGQpBSfXHtLUGgPp5Vmsac/edit?usp=sharing)
+* [Баг-репорты](https://docs.google.com/spreadsheets/d/126UNiuPSp1MZu6_ArCoNmYGQpBSfXHtLUGgPp5Vmsac/edit?usp=sharing)
+4. Визуализация требований для сервиса ЯНдекс Маршруты
+* [Mind-map](https://miro.com/app/board/uXjVMw2b2ys=/?share_link_id=868546698351)
+*[Блок-схема]()
